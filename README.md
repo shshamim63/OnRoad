@@ -16,4 +16,4 @@ for our Webpage. Our framework called on_track is an easy way to make a website 
 
 ### Live Demo
 
-Click [here](https://raw.githack.com/shshamim63/OnRoad/development/index.html) to see the latest updates.
+Click [here](https://shshamim63.github.io/OnRoad/) to see the latest updates.
